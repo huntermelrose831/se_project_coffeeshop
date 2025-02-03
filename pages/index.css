@@ -1,11 +1,5 @@
-.page {
-  min-width: 1100px;
-  max-width: 1600px;
-  margin: auto;
-  font-family: "Inter", Arial, sans-serif;
-  font-size: 16px;
-  line-height: 20px;
-}
+@import url(../blocks/page.css);
+
 .header {
   padding: 30px 80px 40px;
   position: relative;
@@ -24,7 +18,7 @@
 .header__title {
   margin: 183px 0 0;
   max-width: 729px;
-  font-family: "Inter, Arial, sans-serif";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
@@ -56,7 +50,7 @@
 }
 .header__paragraph {
   margin: 0;
-  font-family: "Inter, Arial, sans-serif";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
