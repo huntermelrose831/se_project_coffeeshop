@@ -24,3 +24,8 @@
   color: black;
   font-weight: 600;
 }
+
+.nav__link:hover {
+  opacity: 50%;
+  transition: opacity 0.2s;
+}
