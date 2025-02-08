@@ -15,6 +15,9 @@
 
 .footer__column-heading {
   margin: 0 0 20px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
 }
 .footer__list {
   margin: 0;
